@@ -1,0 +1,1 @@
+yolo task=classify mode=predict model="C:\Users\Danyal Reyaz\Documents\RUDRA\Rock Analysis Model\rock-analysis-106.onnx" source=1 imgsz=128 show=True
